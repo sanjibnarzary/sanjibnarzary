@@ -2,14 +2,33 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  
+  "home": {
+    "title": "Home",
+    "type": "page",
+    "href": "/",
+    "newWindow": false
+  },
   "about": {
     "title": "About",
+    "type": "page"
+  },
+  "classes": {
+    "title": "Classes",
+    "type": "page"
+  },
+  "publications": {
+    "title": "Publications",
+    "type": "page"
+  },
+  "admin-works": {
+    "title": "Administrative Works",
     "type": "page"
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/sanjibnarzary",
     "newWindow": true
   }
 }
